@@ -10,8 +10,8 @@ public class HelloWorld : MonoBehaviour
 
     void Start()
     {
-        print("hello world");
-        helloText.GetComponent<TextMeshPro>().text = "In the tall grass.";
+       // print("hello world");
+        //helloText.GetComponent<TextMeshPro>().text = "In the tall grass.";
         //transform.position = new Vector3(0, 0, 0); 
     }
 
